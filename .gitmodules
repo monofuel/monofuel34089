@@ -1,18 +1,18 @@
 [submodule "finance-tool"]
 	path = finance-tool
-	url = git@gitlab.com:monofuel34089/finance-tool.git
+	url = ../finance-tool.git
 [submodule "handheld"]
 	path = handheld
-	url = git@gitlab.com:monofuel34089/handheld.git
+	url = ../handheld.git
 [submodule "monofuel.dev"]
 	path = monofuel.dev
-	url = git@gitlab.com:monofuel34089/monofuel.dev.git
+	url = ../monofuel.dev.git
 [submodule "orbital"]
 	path = orbital
-	url = git@gitlab.com:monofuel34089/orbital.git
+	url = ../orbital.git
 [submodule "system-redemption"]
 	path = system-redemption
-	url = git@gitlab.com:monofuel34089/system-redemption.git
+	url = ../system-redemption.git
 [submodule "vpn-certs"]
 	path = vpn-certs
-	url = git@gitlab.com:monofuel34089/vpn-certs.git
+	url = ../vpn-certs.git
