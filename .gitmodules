@@ -16,3 +16,6 @@
 [submodule "vpn-certs"]
 	path = vpn-certs
 	url = ../vpn-certs.git
+[submodule "fusion-automation-ts"]
+	path = fusion-automation-ts
+	url = git@gitlab.com:monofuel34089/fusion-automation-ts.git
