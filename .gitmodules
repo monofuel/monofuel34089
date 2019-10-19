@@ -19,3 +19,6 @@
 [submodule "fusion-automation-ts"]
 	path = fusion-automation-ts
 	url = git@gitlab.com:monofuel34089/fusion-automation-ts.git
+[submodule "mjolnir"]
+	path = mjolnir
+	url = git@gitlab.com:monofuel34089/mjolnir.git
