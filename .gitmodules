@@ -22,3 +22,12 @@
 [submodule "mjolnir"]
 	path = mjolnir
 	url = git@gitlab.com:monofuel34089/mjolnir.git
+[submodule "duelfront"]
+	path = duelfront
+	url = git@gitlab.com:monofuel34089/duelfront.git
+[submodule "monocontrol"]
+	path = monocontrol
+	url = git@gitlab.com:monofuel34089/monocontrol.git
+[submodule "ishukone-sheets"]
+	path = ishukone-sheets
+	url = ./ishukone-sheets/
