@@ -31,3 +31,6 @@
 [submodule "ishukone-sheets"]
 	path = ishukone-sheets
 	url = ../ishukone-sheets.git
+[submodule "docker-pi-cluster"]
+	path = docker-pi-cluster
+	url = ../docker-pi-cluster.git
