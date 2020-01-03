@@ -34,3 +34,6 @@
 [submodule "docker-pi-cluster"]
 	path = docker-pi-cluster
 	url = ../docker-pi-cluster.git
+[submodule "eventpure"]
+	path = eventpure
+	url = ../eventpure.git
