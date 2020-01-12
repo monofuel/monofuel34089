@@ -18,16 +18,22 @@
 	url = ../vpn-certs.git
 [submodule "fusion-automation-ts"]
 	path = fusion-automation-ts
-	url = git@gitlab.com:monofuel34089/fusion-automation-ts.git
+	url = ../fusion-automation-ts.git
 [submodule "mjolnir"]
 	path = mjolnir
-	url = git@gitlab.com:monofuel34089/mjolnir.git
+	url = ../mjolnir.git
 [submodule "duelfront"]
 	path = duelfront
-	url = git@gitlab.com:monofuel34089/duelfront.git
+	url = ../duelfront.git
 [submodule "monocontrol"]
 	path = monocontrol
-	url = git@gitlab.com:monofuel34089/monocontrol.git
+	url = ../monocontrol.git
 [submodule "ishukone-sheets"]
 	path = ishukone-sheets
-	url = ./ishukone-sheets/
+	url = ../ishukone-sheets.git
+[submodule "docker-pi-cluster"]
+	path = docker-pi-cluster
+	url = ../docker-pi-cluster.git
+[submodule "eventpure"]
+	path = eventpure
+	url = ../eventpure.git
