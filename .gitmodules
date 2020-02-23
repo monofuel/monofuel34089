@@ -37,3 +37,6 @@
 [submodule "eventpure"]
 	path = eventpure
 	url = ../eventpure.git
+[submodule "mineserver"]
+	path = mineserver
+	url = ../mineserver.git
