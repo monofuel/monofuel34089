@@ -1,51 +1,68 @@
 [submodule "finance-tool"]
 	path = finance-tool
+	branch = master
 	url = ../finance-tool.git
 [submodule "handheld"]
 	path = handheld
+	branch = master
 	url = ../handheld.git
 [submodule "monofuel.dev"]
 	path = monofuel.dev
+	branch = master
 	url = ../monofuel.dev.git
 [submodule "orbital"]
 	path = orbital
+	branch = master
 	url = ../orbital.git
 [submodule "system-redemption"]
 	path = system-redemption
+	branch = master
 	url = ../system-redemption.git
 [submodule "vpn-certs"]
 	path = vpn-certs
+	branch = master
 	url = ../vpn-certs.git
 [submodule "fusion-automation-ts"]
 	path = fusion-automation-ts
+	branch = master
 	url = ../fusion-automation-ts.git
 [submodule "mjolnir"]
 	path = mjolnir
+	branch = master
 	url = ../mjolnir.git
 [submodule "duelfront"]
 	path = duelfront
+	branch = master
 	url = ../duelfront.git
 [submodule "monocontrol"]
 	path = monocontrol
+	branch = master
 	url = ../monocontrol.git
 [submodule "ishukone-sheets"]
 	path = ishukone-sheets
+	branch = master
 	url = ../ishukone-sheets.git
 [submodule "docker-pi-cluster"]
 	path = docker-pi-cluster
+	branch = master
 	url = ../docker-pi-cluster.git
 [submodule "eventpure"]
 	path = eventpure
+	branch = master
 	url = ../eventpure.git
 [submodule "mineserver"]
 	path = mineserver
+	branch = master
 	url = ../mineserver.git
 [submodule "mono-eve"]
 	path = mono-eve
+	branch = master
 	url = ../mono-eve.git
 [submodule "euler"]
 	path = euler
+	branch = master
 	url = ../euler.git
 [submodule "monolab"]
 	path = monolab
+	branch = master
 	url = ../monolab.git
