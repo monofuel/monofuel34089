@@ -40,3 +40,9 @@
 [submodule "mineserver"]
 	path = mineserver
 	url = ../mineserver.git
+[submodule "mono-eve"]
+	path = mono-eve
+	url = ../mono-eve.git
+[submodule "euler"]
+	path = euler
+	url = ../euler.git
