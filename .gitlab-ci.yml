@@ -3,6 +3,10 @@ image: debian
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
-check:
+bash:
+  script:
+    - bash -n update.sh
+
+list:
   script:
     - ls
