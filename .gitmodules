@@ -46,3 +46,6 @@
 [submodule "euler"]
 	path = euler
 	url = ../euler.git
+[submodule "monolab"]
+	path = monolab
+	url = ../monolab.git
