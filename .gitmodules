@@ -66,3 +66,7 @@
 	path = monolab
 	branch = master
 	url = ../monolab.git
+[submodule "monoscreeps"]
+	path = monoscreeps
+	url = git@gitlab.com:monofuel34089/monoscreeps.git
+	branch = main
