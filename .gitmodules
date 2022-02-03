@@ -70,3 +70,6 @@
 	path = monoscreeps
 	url = ../monoscreeps.git
 	branch = main
+[submodule "monolib-c"]
+	path = monolib-c
+	url = ../monolib-c.git
