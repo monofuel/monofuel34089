@@ -73,3 +73,8 @@
 [submodule "monolib-c"]
 	path = monolib-c
 	url = ../monolib-c.git
+	branch = master
+[submodule "luacrafts"]
+	path = luacrafts
+	url = ../luacrafts.git
+	branch = master
