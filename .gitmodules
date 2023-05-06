@@ -78,3 +78,27 @@
 	path = luacrafts
 	url = ../luacrafts.git
 	branch = master
+[submodule "distributedsystems"]
+	path = distributedsystems
+	url = git@gitlab.com:monofuel34089/distributedsystems.git
+[submodule "picobuild"]
+	path = picobuild
+	url = ../picobuild
+[submodule "glusterfs-subdir-external-provisioner"]
+	path = glusterfs-subdir-external-provisioner
+	url = git@github.com:monofuel/glusterfs-subdir-external-provisioner.git
+[submodule "ishukone-sheets2"]
+	path = ishukone-sheets2
+	url = git@gitlab.com:mono-homelab/ishukone-sheets2.git
+[submodule "mono-retropie"]
+	path = mono-retropie
+	url = git@gitlab.com:monofuel34089/mono-retropie.git
+[submodule "mono-fin"]
+	path = mono-fin
+	url = git@gitlab.com:monofuel34089/mono-fin.git
+[submodule "mono-fit"]
+	path = mono-fit
+	url = git@gitlab.com:monofuel34089/mono-fit.git
+[submodule "pixels"]
+	path = pixels
+	url = git@github.com:monofuel/pixels.git
