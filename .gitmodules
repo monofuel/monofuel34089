@@ -99,9 +99,8 @@
 [submodule "mono-fit"]
 	path = mono-fit
 	url = git@gitlab.com:monofuel34089/mono-fit.git
-<<<<<<< HEAD
-=======
 [submodule "pixels"]
 	path = pixels
 	url = git@github.com:monofuel/pixels.git
->>>>>>> monofuel/tmp
+	branch = master
+	shallow = true
