@@ -104,3 +104,7 @@
 	url = git@github.com:monofuel/pixels.git
 	branch = master
 	shallow = true
+[submodule "nimcrafts"]
+	path = nimcrafts
+	branch = master
+	url = git@gitlab.com:mono-homelab/nimcrafts.git
