@@ -108,3 +108,9 @@
 	path = nimcrafts
 	branch = master
 	url = git@gitlab.com:mono-homelab/nimcrafts.git
+[submodule "nim-docker"]
+	path = nim-docker
+	url = git@github.com:monofuel/nim-docker.git
+[submodule "Racha"]
+	path = Racha
+	url = git@gitlab.com:mono-homelab/Racha.git
